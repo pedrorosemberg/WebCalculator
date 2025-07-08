@@ -1,5 +1,7 @@
 /home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/bin/Debug/net8.0/appsettings.Development.json
 /home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/bin/Debug/net8.0/appsettings.json
+/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/bin/Debug/net8.0/libman.json
+/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/bin/Debug/net8.0/WebCalc_HTTP.staticwebassets.runtime.json
 /home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/bin/Debug/net8.0/WebCalc_HTTP
 /home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/bin/Debug/net8.0/WebCalc_HTTP.deps.json
 /home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/bin/Debug/net8.0/WebCalc_HTTP.runtimeconfig.json

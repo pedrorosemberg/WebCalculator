@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "feZTe7jt36pdGj67uhD2I4v8Qwz63jn3iCOsDIAN75s=",
+  "Source": "WebCalc_HTTP",
+  "BasePath": "_content/WebCalc_HTTP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

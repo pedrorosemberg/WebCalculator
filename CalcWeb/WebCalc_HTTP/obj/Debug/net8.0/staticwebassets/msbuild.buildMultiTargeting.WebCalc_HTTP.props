@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/WebCalc_HTTP.props" />
+</Project>

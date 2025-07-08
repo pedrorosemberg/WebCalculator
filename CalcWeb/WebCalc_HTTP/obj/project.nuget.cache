@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ynCPlZqioq0=",
+  "dgSpecHash": "28tpFfe2s9Y=",
   "success": true,
   "projectFilePath": "/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/WebCalc_HTTP.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/pedro/.nuget/packages/bootstrap/5.3.7/bootstrap.5.3.7.nupkg.sha512",
+    "/home/pedro/.nuget/packages/jquery/3.7.1/jquery.3.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "bootstrap@5.3.3", // Ou a versão mais recente que preferir
+      "destination": "wwwroot/lib/bootstrap"
+    },
+    {
+      "library": "jquery@3.7.1", // Necessário para o Bootstrap JS
+      "destination": "wwwroot/lib/jquery"
+    }
+  ]
+}

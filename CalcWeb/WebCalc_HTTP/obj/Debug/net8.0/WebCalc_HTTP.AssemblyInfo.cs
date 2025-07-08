@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebCalc_HTTP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9ece73e75f1c5bcf8f24acde61b65b1b981597e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a43b6bd2f1388394a32311b6c59fb0434f145cf1")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebCalc_HTTP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebCalc_HTTP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

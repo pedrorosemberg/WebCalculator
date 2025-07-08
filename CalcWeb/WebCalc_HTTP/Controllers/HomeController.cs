@@ -1,3 +1,4 @@
+// Controllers/HomeController.cs
 using Microsoft.AspNetCore.Mvc;
 using CalculadoraWeb.Models; // Importa sua classe Calculadora
 
@@ -5,22 +6,22 @@ namespace CalculadoraWeb.Controllers
 {
     public class HomeController : Controller
     {
-        // Esta action exibe o formulário da calculadora
         public IActionResult Index()
         {
             return View();
         }
 
-        // Esta action processa os dados do formulário quando enviados
-        [HttpPost] // Indica que esta action responde a requisições POST
+        [HttpPost]
         public IActionResult Calcular(Calculadora model)
         {
-            if (ModelState.IsValid) // Verifica se os dados enviados são válidos
+            if (ModelState.IsValid)
             {
                 model.Calcular();
-                ViewBag.Resultado = model.Resultado; // Passa o resultado para a View
+                // ESTA LINHA É CRUCIAL:
+                ViewBag.Resultado = model.Resultado; // Passa o resultado para a View usando ViewBag
             }
-            return View("Index", model); // Retorna a mesma View com o resultado
+            // TAMBÉM É CRUCIAL:
+            return View("Index", model); // Retorna a mesma View, passando o modelo para preencher os campos e o resultado.
         }
     }
 }

@@ -1,0 +1,14 @@
+/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/WebCalculator/obj/Debug/net8.0/WebCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/WebCalculator/obj/Debug/net8.0/WebCalculator.AssemblyInfoInputs.cache
+/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/WebCalculator/obj/Debug/net8.0/WebCalculator.AssemblyInfo.cs
+/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/WebCalculator/obj/Debug/net8.0/WebCalculator.csproj.CoreCompileInputs.cache
+/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/WebCalculator/bin/Debug/net8.0/WebCalculator
+/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/WebCalculator/bin/Debug/net8.0/WebCalculator.deps.json
+/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/WebCalculator/bin/Debug/net8.0/WebCalculator.runtimeconfig.json
+/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/WebCalculator/bin/Debug/net8.0/WebCalculator.dll
+/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/WebCalculator/bin/Debug/net8.0/WebCalculator.pdb
+/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/WebCalculator/obj/Debug/net8.0/WebCalculator.dll
+/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/WebCalculator/obj/Debug/net8.0/refint/WebCalculator.dll
+/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/WebCalculator/obj/Debug/net8.0/WebCalculator.pdb
+/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/WebCalculator/obj/Debug/net8.0/WebCalculator.genruntimeconfig.cache
+/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/WebCalculator/obj/Debug/net8.0/ref/WebCalculator.dll

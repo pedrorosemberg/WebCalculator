@@ -1,22 +1,21 @@
-// libman.json
 {
   "version": "1.0",
   "defaultProvider": "unpkg",
   "libraries": [
     {
-      "library": "bootstrap@5.3.3", // Use a versão mais recente, se preferir
+      "library": "bootstrap@5.3.3",
       "destination": "wwwroot/lib/bootstrap"
     },
     {
-      "library": "jquery@3.7.1", // Use a versão mais recente, se preferir
+      "library": "jquery@3.7.1",
       "destination": "wwwroot/lib/jquery"
     },
     {
-      "library": "jquery-validation@1.19.5", // Para validação de formulário (opcional, mas bom ter)
+      "library": "jquery-validation@1.19.5",
       "destination": "wwwroot/lib/jquery-validation"
     },
     {
-      "library": "jquery-validation-unobtrusive@4.0.0", // Para validação de formulário (opcional, mas bom ter)
+      "library": "jquery-validation-unobtrusive@4.0.0", 
       "destination": "wwwroot/lib/jquery-validation-unobtrusive"
     }
   ]

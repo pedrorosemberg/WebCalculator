@@ -28,3 +28,33 @@
 /home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/WebCalc_HTTP.pdb
 /home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/WebCalc_HTTP.genruntimeconfig.cache
 /home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/ref/WebCalc_HTTP.dll
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/bin/Debug/net8.0/appsettings.Development.json
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/bin/Debug/net8.0/appsettings.json
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/bin/Debug/net8.0/libman.json
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/bin/Debug/net8.0/WebCalc_HTTP.staticwebassets.runtime.json
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/bin/Debug/net8.0/WebCalc_HTTP
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/bin/Debug/net8.0/WebCalc_HTTP.deps.json
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/bin/Debug/net8.0/WebCalc_HTTP.runtimeconfig.json
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/bin/Debug/net8.0/WebCalc_HTTP.dll
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/bin/Debug/net8.0/WebCalc_HTTP.pdb
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/WebCalc_HTTP.GeneratedMSBuildEditorConfig.editorconfig
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/WebCalc_HTTP.AssemblyInfoInputs.cache
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/WebCalc_HTTP.AssemblyInfo.cs
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/WebCalc_HTTP.csproj.CoreCompileInputs.cache
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/WebCalc_HTTP.MvcApplicationPartsAssemblyInfo.cache
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/WebCalc_HTTP.RazorAssemblyInfo.cache
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/WebCalc_HTTP.RazorAssemblyInfo.cs
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/WebCalc_HTTP.sourcelink.json
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/staticwebassets.build.json
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/staticwebassets.development.json
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/staticwebassets/msbuild.WebCalc_HTTP.Microsoft.AspNetCore.StaticWebAssets.props
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/staticwebassets/msbuild.build.WebCalc_HTTP.props
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebCalc_HTTP.props
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebCalc_HTTP.props
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/staticwebassets.pack.json
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/scopedcss/bundle/WebCalc_HTTP.styles.css
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/WebCalc_HTTP.dll
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/refint/WebCalc_HTTP.dll
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/WebCalc_HTTP.pdb
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/WebCalc_HTTP.genruntimeconfig.cache
+/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/Debug/net8.0/ref/WebCalc_HTTP.dll

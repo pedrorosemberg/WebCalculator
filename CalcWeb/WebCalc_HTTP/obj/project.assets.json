@@ -369,11 +369,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/WebCalc_HTTP.csproj",
+      "projectUniqueName": "/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/WebCalc_HTTP.csproj",
       "projectName": "WebCalc_HTTP",
-      "projectPath": "/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/WebCalc_HTTP.csproj",
+      "projectPath": "/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/WebCalc_HTTP.csproj",
       "packagesPath": "/home/pedro/.nuget/packages/",
-      "outputPath": "/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/obj/",
+      "outputPath": "/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pedro/.nuget/NuGet/NuGet.Config"

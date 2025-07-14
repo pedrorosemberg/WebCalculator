@@ -9,27 +9,27 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebCalc_HTTP
 build_property.RootNamespace = WebCalc_HTTP
-build_property.ProjectDir = /home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/
+build_property.ProjectDir = /media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP
+build_property.MSBuildProjectDirectory = /media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C\#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/Views/Home/Index.cshtml]
+[/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C\#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/Views/Shared/_Layout.cshtml]
+[/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C\#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/Views/_ViewImports.cshtml]
+[/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/pedro/Área de trabalho/Teste_Projetos/WebCalculator_C\#&.NET/WebCalculator/CalcWeb/WebCalc_HTTP/Views/_ViewStart.cshtml]
+[/media/pedro/HD/Projetos/WEB2.0/WebCalculator/CalcWeb/WebCalc_HTTP/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
